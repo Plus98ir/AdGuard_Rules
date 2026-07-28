@@ -7,7 +7,7 @@
 #||*.ir^$dnsrewrite=8.8.8.8
 #||*.ir^$dnsrewrite=8.8.8.8
 #||*.ir^$dnsrewrite=8.8.8.8
-||fastly.com^$dnsrewrite=64.49.15.239
+#||fastly.com^$dnsrewrite=64.49.15.239
 ||prodregistryv2.org^$dnsrewrite=64.49.15.239
 ||featureassets.org^$dnsrewrite=64.49.15.239
 ||hcaptcha.com^$dnsrewrite=64.49.15.239
