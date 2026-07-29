@@ -5,8 +5,8 @@
 #||*.ir^$dnsrewrite=8.8.8.8
 #||*.ir^$dnsrewrite=8.8.8.8
 #||*.ir^$dnsrewrite=8.8.8.8
-#||*.ir^$dnsrewrite=8.8.8.8
-#||*.ir^$dnsrewrite=8.8.8.8
+||content.google^$dnsrewrite=109.70.76.136
+||gvt1.com^$dnsrewrite=109.70.76.136
 #||fastly.com^$dnsrewrite=109.70.76.136
 ||prodregistryv2.org^$dnsrewrite=109.70.76.136
 ||featureassets.org^$dnsrewrite=109.70.76.136
