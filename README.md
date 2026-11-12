@@ -19,32 +19,8 @@ TA53aFyGNfSAcrCaJi9QmA9x5W47nPJcf7
 
 <div align="center">
 
-[🇬🇧 English](#english) | [🇮🇷 فارسی](#persian)
+[<img src="https://flagcdn.com/w40/us.png" width="20" alt=""> &nbsp;**English**](README.md) &nbsp;&nbsp;|&nbsp;&nbsp; [<img src="https://flagcdn.com/w40/ir.png" width="20" alt=""> &nbsp;**فارسی**](README.fa.md)
 
 </div>
-
----
-
-<a name="english"></a>
-
-## 🇬🇧 English
 
 Domains of services that block or sanction users in Iran, for routing rules (send them through the proxy).
-
----
-
-<a name="persian"></a>
-
-## 🇮🇷 فارسی
-
-<div align="center">
-
-[🇬🇧 English](#english) | [🇮🇷 فارسی](#persian)
-
-</div>
-
-<div dir="rtl">
-
-دامنه‌های تحریم‌کننده‌ی ایران برای قوانین مسیریابی (تا از پروکسی رد شوند).
-
-</div>
