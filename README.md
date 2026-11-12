@@ -17,20 +17,34 @@ TA53aFyGNfSAcrCaJi9QmA9x5W47nPJcf7
 
 </details>
 
-<details>
-<summary><b>🇮🇷 فارسی</b></summary>
+<div align="center">
+
+[🇬🇧 English](#english) | [🇮🇷 فارسی](#persian)
+
+</div>
+
+---
+
+<a name="english"></a>
+
+## 🇬🇧 English
+
+Domains of services that block or sanction users in Iran, for routing rules (send them through the proxy).
+
+---
+
+<a name="persian"></a>
+
+## 🇮🇷 فارسی
+
+<div align="center">
+
+[🇬🇧 English](#english) | [🇮🇷 فارسی](#persian)
+
+</div>
 
 <div dir="rtl">
 
 دامنه‌های تحریم‌کننده‌ی ایران برای قوانین مسیریابی (تا از پروکسی رد شوند).
 
 </div>
-
-</details>
-
-<details open>
-<summary><b>🇺🇸 English</b></summary>
-
-Domains of services that block or sanction users in Iran, for routing rules (send them through the proxy).
-
-</details>
